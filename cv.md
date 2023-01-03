@@ -25,3 +25,11 @@ function sum(a,b,c) {
 let result = sum(2,3,2);
 alert(result);
 ```
+# Education
+- **Corses:**
+  * [HTML](https://htmlacademy.ru)
+  * JS, Git on YouTude channels
+
+# Language
+* **Russian** - native
+* **English** - B1
